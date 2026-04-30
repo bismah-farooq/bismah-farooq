@@ -59,3 +59,4 @@ Explored optimization techniques for efficient memory access.
 
 * Email: [Bismahfarooq22@gmail.com](mailto:Bismahfarooq22@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/bismah-farooq-1b6099351/
+* Portoflio: https://bismah-farooq.github.io/
