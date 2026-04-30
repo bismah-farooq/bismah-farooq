@@ -7,43 +7,11 @@
 
 ## 🔧 Skills
 
-* Languages: C++, Python, SQL
-* Tools: Git, Linux, MySQL
-* Concepts: Data Structures, Linear Algebra, Memory Systems
+* Languages & Frameworks: C, C++, Python (NumPy, Pandas, Matplotlib), Java, JavaScript, Haskell, Prolog, HTML/CSS, MIPS Assembly, R (ggplot2, RShiny)
+* Cybersecurity & Networking: Threat Detection & Response, SIEM Tools, Vulnerability Assessment, Risk & Security Management, Secure Authentication, Cryptography, Network Protocols (TCP/IP, HTTP), Firewalls, Cloud Security
+* Tools & Technologies: Linux, Git, GitHub, Bash Shell, SQL, Microsoft Office, Windows, macOS, Tableau, Jupyter Notebook, Data Cleaning, Dashboard Design & Automation, Jira
 
 ---
-
-## 📚 Projects
-
-### 🔹 Linear Algebra Library
-
-Implemented core operations like:
-
-* Determinants
-* Eigenvalues & Eigenvectors
-* Singular Value Decomposition (SVD)
-
-### 🔹 Custom Vector (C++)
-
-Templatized vector class built from scratch:
-
-* Dynamic resizing
-* Memory management
-* Iterator support
-
-### 🔹 Cache Design Project
-
-Explored cache hierarchy concepts:
-
-* Performance tradeoffs
-* Memory access optimization
-
----
-
-## 📈 Currently Working On
-
-* Improving low-level programming skills
-* Building more system-level projects
 
 ---
 
