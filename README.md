@@ -118,7 +118,6 @@ BS in Computer Science — Aug 2022 – Dec 2026 · GPA 3.51 · Dean's List with
 
 ## 📊 GitHub Stats
 
-![Bismah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bismah-farooq&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bismah-farooq&layout=compact&theme=default&hide_border=true)
 
 ---
