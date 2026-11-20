@@ -21,19 +21,43 @@ I'm pursuing both a BS and MS in Computer Science at CSULB (GPA 3.51, Dean's Lis
 ## 🛠 Tech Stack
 
 **Languages**  
-`Python` `Java` `C++` `C` `JavaScript` `SQL` `Bash` `PowerShell`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **GenAI & LLMs**  
-`RAG` `Context Engineering` `Vector Stores` `Embeddings` `AI Coding Assistants`
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Vector Stores](https://img.shields.io/badge/Vector_Stores-8A2BE2?style=flat&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-9B59B6?style=flat&logoColor=white)
 
 **AI/ML & Data**  
-`PyTorch` `Scikit-learn` `LangChain` `OpenAI API` `FAISS` `Pandas` `NumPy`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **Tools & Platforms**  
-`PostgreSQL` `Docker` `Linux` `Git` `Node.js` `REST APIs` `AWS` `Jira`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 **Practices**  
-`Agile/Scrum` `Code Reviews` `Unit Testing` `Technical Documentation` `Data Structures`
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat&logoColor=white)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-2ECC71?style=flat&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-E74C3C?style=flat&logoColor=white)
+![Technical Docs](https://img.shields.io/badge/Technical_Documentation-95A5A6?style=flat&logoColor=white)
 
 ---
 
@@ -42,21 +66,33 @@ I'm pursuing both a BS and MS in Computer Science at CSULB (GPA 3.51, Dean's Lis
 ### 😶 Facial Emotion Recognition
 Custom CNN trained on FER-2013 to classify 7 facial emotions — with a live in-browser webcam demo.
 
-- Built with **Python, PyTorch, OpenCV, ONNX, Scikit-learn**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+
 - 4.8M-parameter CNN; reached **68.2% test accuracy** (0.653 macro-F1), outperforming ResNet-18 baseline
 - Removed 1,767 leaked duplicates; shipped webcam demo via ONNX Runtime
 
 ### 🧠 AI Study Assistant
 RAG chatbot that answers natural language questions over uploaded course notes and PDFs.
 
-- Built with **Python, LangChain, OpenAI API, FAISS, PostgreSQL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
 - Chunks and embeds documents into a FAISS vector store for low-latency semantic retrieval
 - Logs queries and responses in PostgreSQL to track usage and improve answer quality
 
 ### ☕ Coffee Shop POS System
 Full-stack point-of-sale application built with a 5-person team.
 
-- Built with **Java, JavaScript, Node.js, PostgreSQL, Docker**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 - Owned half the frontend screens; wired them to Node.js REST APIs
 - Wrote end-to-end tests covering orders, payments, and inventory flows
 
